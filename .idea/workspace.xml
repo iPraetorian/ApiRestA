@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7b0e60d-9ac0-4bb7-a09a-367a74b0aed3" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StarWarsPeopleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiRestA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ArtistApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArtistApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MockyBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ArtistApi$SecondAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ArtistApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ArtistApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BaseTest.class" afterDir="false" />
+>>>>>>> 72b6493a8a1f1702b7d6d132352bfdf4733073ca
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,6 +27,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ArtistApi.java">
@@ -39,6 +54,51 @@
         </entry>
       </file>
     </leaf>
+=======
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/ArtistApi.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/MockyBase.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="510">
+                  <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/StarWarsPeopleTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+>>>>>>> 72b6493a8a1f1702b7d6d132352bfdf4733073ca
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,10 +118,20 @@
         <option value="$PROJECT_DIR$/src/test/java/ApiTestOne.java" />
         <option value="$PROJECT_DIR$/src/test/java/test.java" />
         <option value="$PROJECT_DIR$/src/test/java/Question4.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ArtistApi.java" />
         <option value="$PROJECT_DIR$/src/test/java/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ArtistApi.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StarWarsPeopleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Base.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StarBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MockyBase.java" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -77,15 +147,45 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="ApiRestA" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ApiRestA" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ApiRestA" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ApiRestA" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="resources" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ApiRestA" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="surefire" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="-1379" />
     <option name="y" value="-754" />
     <option name="width" value="1326" />
     <option name="height" value="801" />
+=======
+    <option name="x" value="28" />
+    <option name="y" value="22" />
+    <option name="width" value="1652" />
+    <option name="height" value="974" />
+>>>>>>> 72b6493a8a1f1702b7d6d132352bfdf4733073ca
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -110,12 +210,6 @@
               <item name="ApiRestA" type="b2602c69:ProjectViewProjectNode" />
               <item name="ApiRestA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ApiRestA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ApiRestA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -133,8 +227,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548035965681" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+=======
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549211321955" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+>>>>>>> 72b6493a8a1f1702b7d6d132352bfdf4733073ca
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -168,21 +273,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArtistApi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ApiRestA" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ArtistApi" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ArtistApi.ArtistTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ApiRestA" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ArtistApi" />
+<<<<<<< HEAD
+      <option name="TEST_OBJECT" value="class" />
+=======
       <option name="METHOD_NAME" value="ArtistTest" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+>>>>>>> 72b6493a8a1f1702b7d6d132352bfdf4733073ca
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -193,6 +295,18 @@
       <option name="MAIN_CLASS_NAME" value="ArtistApi" />
       <option name="METHOD_NAME" value="ArtistTest1" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArtistApi.ResponseTimeoutSLA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiRestA" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArtistApi" />
+      <option name="METHOD_NAME" value="ResponseTimeoutSLA" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -200,17 +314,21 @@
     <list>
       <item itemvalue="Application.Question4" />
       <item itemvalue="Application.Question5" />
+<<<<<<< HEAD
       <item itemvalue="JUnit.ArtistApi" />
+=======
+>>>>>>> 72b6493a8a1f1702b7d6d132352bfdf4733073ca
       <item itemvalue="JUnit.ArtistApi.ArtistTest" />
       <item itemvalue="JUnit.ArtistApi.ArtistTest1" />
+      <item itemvalue="JUnit.ArtistApi.ResponseTimeoutSLA" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ArtistApi.ArtistTest1" />
+        <item itemvalue="JUnit.ArtistApi.ResponseTimeoutSLA" />
         <item itemvalue="JUnit.ArtistApi.ArtistTest" />
         <item itemvalue="Application.Question5" />
         <item itemvalue="Application.Question4" />
-        <item itemvalue="JUnit.ArtistApi" />
       </list>
     </recent_temporary>
   </component>
@@ -224,45 +342,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542255664054</updated>
+      <workItem from="1548194829549" duration="1151000" />
+      <workItem from="1548871670730" duration="262000" />
+      <workItem from="1548871962228" duration="384000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArtistApi - 2018.12.28 at 10h 15m 02s.xml">
-      <configuration name="ArtistApi" configurationId="JUnit" />
+    <history-entry file="ArtistApi_ArtistTest1 - 2019.01.30 at 12h 40m 50s.xml">
+      <configuration name="ArtistApi.ArtistTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtistApi_ArtistTest - 2019.01.14 at 20h 39m 16s.xml">
+    <history-entry file="ArtistApi_ArtistTest - 2019.01.30 at 12h 44m 51s.xml">
       <configuration name="ArtistApi.ArtistTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtistApi_ArtistTest - 2019.01.16 at 18h 01m 48s.xml">
+    <history-entry file="ArtistApi_ArtistTest - 2019.01.30 at 12h 45m 03s.xml">
       <configuration name="ArtistApi.ArtistTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtistApi_ArtistTest - 2019.01.18 at 10h 20m 08s.xml">
-      <configuration name="ArtistApi.ArtistTest" configurationId="JUnit" />
+    <history-entry file="ArtistApi_ArtistTest1 - 2019.01.30 at 19h 32m 23s.xml">
+      <configuration name="ArtistApi.ArtistTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtistApi_ArtistTest - 2019.01.18 at 10h 21m 12s.xml">
-      <configuration name="ArtistApi.ArtistTest" configurationId="JUnit" />
+    <history-entry file="ArtistApi_ArtistTest1 - 2019.01.30 at 19h 33m 10s.xml">
+      <configuration name="ArtistApi.ArtistTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtistApi_ArtistTest - 2019.01.18 at 10h 22m 24s.xml">
-      <configuration name="ArtistApi.ArtistTest" configurationId="JUnit" />
+    <history-entry file="ArtistApi_ArtistTest1 - 2019.01.31 at 17h 42m 03s.xml">
+      <configuration name="ArtistApi.ArtistTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtistApi_ArtistTest - 2019.01.18 at 10h 22m 59s.xml">
-      <configuration name="ArtistApi.ArtistTest" configurationId="JUnit" />
+    <history-entry file="ArtistApi_ResponseTimeoutSLA - 2019.01.31 at 17h 42m 16s.xml">
+      <configuration name="ArtistApi.ResponseTimeoutSLA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtistApi_ArtistTest - 2019.01.18 at 10h 25m 41s.xml">
-      <configuration name="ArtistApi.ArtistTest" configurationId="JUnit" />
+    <history-entry file="ArtistApi_ResponseTimeoutSLA - 2019.01.31 at 17h 42m 41s.xml">
+      <configuration name="ArtistApi.ResponseTimeoutSLA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtistApi_ArtistTest - 2019.01.18 at 10h 26m 02s.xml">
-      <configuration name="ArtistApi.ArtistTest" configurationId="JUnit" />
+    <history-entry file="ArtistApi_ArtistTest1 - 2019.01.31 at 17h 42m 50s.xml">
+      <configuration name="ArtistApi.ArtistTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtistApi_ArtistTest1 - 2019.01.18 at 10h 26m 16s.xml">
+    <history-entry file="ArtistApi_ArtistTest1 - 2019.01.31 at 17h 43m 04s.xml">
       <configuration name="ArtistApi.ArtistTest1" configurationId="JUnit" />
     </history-entry>
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1797000" />
+  </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-1379" y="-754" width="1326" height="801" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26323986" />
+=======
+    <frame x="28" y="22" width="1652" height="974" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17204969" />
+>>>>>>> 72b6493a8a1f1702b7d6d132352bfdf4733073ca
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -270,12 +401,13 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49922118" weight="0.3596615" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915374" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49279898" weight="0.28798187" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39909297" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4961059" visible="true" weight="0.32863188" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5038941" side_tool="true" visible="true" weight="0.32863188" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
@@ -291,8 +423,56 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32943925" />
     </layout>
   </component>
+=======
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32993197" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4946775" weight="0.3265306" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48407644" visible="true" weight="0.19727892" />
+      <window_info anchor="right" id="Maven" order="0" sideWeight="0.4968153" weight="0.32999372" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.32943925" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Event Log" order="10" sideWeight="0.51592356" side_tool="true" weight="0.19912335" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+>>>>>>> 72b6493a8a1f1702b7d6d132352bfdf4733073ca
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/Question4.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTestOne.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -300,11 +480,63 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/ApiTestOne.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+=======
+    <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.2.0/rest-assured-3.2.0-sources.jar!/io/restassured/specification/RequestSenderOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.2.0/rest-assured-3.2.0-sources.jar!/io/restassured/specification/RequestSpecification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6-sources.jar!/org/apache/http/params/CoreConnectionPNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="109" column="31" selection-start-line="109" selection-start-column="31" selection-end-line="109" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.2.0/rest-assured-3.2.0-sources.jar!/io/restassured/RestAssured.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="360" column="25" selection-start-line="360" selection-start-column="25" selection-end-line="360" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/ArtistApi.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StarBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MockyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+>>>>>>> 72b6493a8a1f1702b7d6d132352bfdf4733073ca
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -313,13 +545,101 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ArtistApi.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="334">
           <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+=======
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+>>>>>>> 72b6493a8a1f1702b7d6d132352bfdf4733073ca
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StarWarsPeopleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ApiRestA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.sun.xml.bind:jaxb-osgi:2.2.10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

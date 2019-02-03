@@ -6,12 +6,13 @@ import io.restassured.response.ResponseBody;
 import io.restassured.specification.RequestSpecification;
 import org.apache.http.params.CoreConnectionPNames;
 
-public class BaseTest {
+public class MockyBase {
 
-//Base constructs client and provides helper and common methods
+//MockyBase constructs client and provides helper and common methods
 
     public RequestSpecification GetClient() {
-        return GetClient(1000);
+        return GetClient(5000);
+
     }
 
     public RequestSpecification GetClient(int timeout) {

@@ -5,11 +5,12 @@ import org.junit.Assert;
 import org.junit.Test;
 
 
-public class ArtistApi extends BaseTest{
+public class ArtistApi extends MockyBase {
 
     @Test
-    public void ArtistTest() {
-        RequestSpecification client = GetClient(5);
+    //This test will allow you to set a timeout value to test whatever SLA or benchmark you want to validate
+    public void ResponseTimeoutSLA() {
+        RequestSpecification client = GetClient(1000);
         Response response = client.get("/5c2535de30000066007a62b4");
 
         String bodyasString = ReadBodyAsString(response);
@@ -29,12 +30,6 @@ public class ArtistApi extends BaseTest{
         Assert.assertEquals(bodyasString.contains("Guernica"),true);
 
         System.out.print("Response body is: " + body.asString());
-
-    }
-
-
-    @Test
-    public void validateArtistResults() {
 
     }
 }

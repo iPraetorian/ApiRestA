@@ -27,6 +27,8 @@ public class MockyBase {
         return RestAssured.given().config(config);
     }
 
+
+
     public String ReadBodyAsString(Response response) {
         ResponseBody body = response.getBody();
         return body.asString();

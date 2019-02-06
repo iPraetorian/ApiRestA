@@ -10,7 +10,7 @@ public class ArtistApi extends MockyBase {
     @Test
     //This test will allow you to set a timeout value to test whatever SLA or benchmark you want to validate
     public void ResponseTimeoutSLA() {
-        RequestSpecification client = GetClient(1000);
+        RequestSpecification client = GetClient(100);
         Response response = client.get("/5c2535de30000066007a62b4");
 
         String bodyasString = ReadBodyAsString(response);
